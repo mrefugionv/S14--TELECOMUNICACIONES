@@ -1,11 +1,13 @@
 # S14--TELECOMUNICACIONES
-Identificar a los operadores menos eficaces de una empresa de telecomunicaciones.
+Identificar a los operadores menos eficaces de una empresa de telecomunicaciones; y creación de Dashboard.
 
 ## Descripción 
 Identificar a los operadores menos eficaces mediante los siguientes indicadores:
 * La cantidad de llamadas entrantes perdidas (internas y externas).
 * El tiempo de espera a las llamadas entrantes.
 * Cantidad de llamadas salientes.
+
+En la presentación se definen las características del dashboard creado en Tableu.
 
 ## Herramientas utilizadas
 ![Python](https://img.shields.io/badge/:Python-024A86?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
